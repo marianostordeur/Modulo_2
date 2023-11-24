@@ -1,4 +1,4 @@
-/* let nombre = prompt("Ingrese su nombre");
+ let nombre = prompt("Ingrese su nombre");
 let edad = prompt("Ingrese su edad");
 let actividad = prompt("Ingrese su actividad favorita");
 let deporte = prompt("Ingrese su deporte favorito");
@@ -15,12 +15,12 @@ actividad +
 deporte
 
 alert(tarjeta);
-console.log(tarjeta) */
+console.log(tarjeta) 
 
-/* let s = 'Coach Potato';
+ let s = 'Coach Potato';
 console.log(s)
 console.log(s.toUpperCase());
 console.log(s.toLocaleLowerCase());
 console.log(s.charAt(4)); // Extrae una letra (el indice)
 console.log(s.indexOf('o'));
-console.log(s.lastIndexOf('o')); */
+console.log(s.lastIndexOf('o')); 

@@ -1,4 +1,4 @@
-/* let num1 = Number (prompt ("Ingrese el primer numero: "));
+let num1 = Number (prompt ("Ingrese el primer numero: "));
 let num2 = Number (prompt('Ingrese el segundo numero: '));
 
 //01-OPERADORES DE ASIGNACION
@@ -69,5 +69,5 @@ console.log('OR: ', false || true);
 console.log('OR: ', false || false);
 
 // NOT
-/* console.log('NOT: ', !true);
-console.log('NOT: ', !false); */ 
+ console.log('NOT: ', !true);
+console.log('NOT: ', !false);

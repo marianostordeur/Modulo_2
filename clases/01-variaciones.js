@@ -1,4 +1,4 @@
-/* //alert('Hola Mariano')
+ //alert('Hola Mariano')
 
 
 
@@ -60,4 +60,4 @@ let persona = {
     apellido: "Stordeur",
     edad: 19,
     ciudadNatal: "Tucumán",
-} */
+} 
