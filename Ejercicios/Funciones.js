@@ -1,0 +1,1 @@
+let promedio1 = promediar ([])
